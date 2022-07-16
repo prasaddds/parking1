@@ -1,0 +1,33 @@
+#quote-Wrapper{
+    background-color: #ccc;
+    padding: 5vw;
+    border-radius: 4vw;
+    width: 70vw;
+    margin: 0 auto;
+    box-shadow: rgb(0, 0, 0,0.35) 0px 5px 15px;
+    border: 1px solid #ddd;
+    margin-top: 5vw;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+#uote-display-wrapper{
+    background-color: aliceblue;
+    border: 1px solid #eee;
+    padding: 3vw;
+    width: 100%;
+    border-radius: 20px;
+}
+#quote-refresh{
+    padding: 2vw;
+    cursor: pointer;
+    color: rgb(184, 62, 62);
+    font-weight: 500;
+    border-radius: 20vw;
+    
+    font-size: 3vw;
+    width: fit-content;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 30%;
+}
