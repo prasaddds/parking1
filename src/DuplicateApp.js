@@ -18,6 +18,7 @@ function DuplicateApp() {
             <Route path='About' element={<About />} />
             <Route path="ContactUs" element={<ContactUs/>}/>
             <Route path="Dfault" element={<Dfault/>}/>
+            <Route path="parking1" element={<Home/>}/>
             </Routes>  
             <Routes>
             <Route path="Agartala" element={<Agartala/>}/>
