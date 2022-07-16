@@ -8,3 +8,4 @@
 8)npm install framer-motion
 9)Execute npx json-server --watch data/db.json --port 8002
 10)Make the heirarchy of files as shown in github link
+11)Then start the app by executing npm start.
